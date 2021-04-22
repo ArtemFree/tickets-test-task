@@ -1,0 +1,1 @@
+export const getCheques = (store) => store.cheques
